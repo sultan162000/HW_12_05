@@ -1,0 +1,11 @@
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\bin\Debug\netcoreapp2.1\HW_12_05.deps.json
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\bin\Debug\netcoreapp2.1\HW_12_05.runtimeconfig.json
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\bin\Debug\netcoreapp2.1\HW_12_05.runtimeconfig.dev.json
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\bin\Debug\netcoreapp2.1\HW_12_05.dll
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\bin\Debug\netcoreapp2.1\HW_12_05.pdb
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.csprojAssemblyReference.cache
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.AssemblyInfoInputs.cache
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.AssemblyInfo.cs
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.dll
+C:\Users\Sultan\source\repos\HW_12_05\HW_12_05\obj\Debug\netcoreapp2.1\HW_12_05.pdb
